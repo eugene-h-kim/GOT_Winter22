@@ -115,7 +115,7 @@ background-color: rgba(0, 0, 0, 0.85);
 .lightbox .close {
 float: right;
 margin-right: 30px;
-	margin-top: 20px;
+margin-top: 20px;
 font-size: 30px;
 color: white;
 text-decoration: none;
@@ -133,4 +133,5 @@ margin: 0 auto;
 video {
 	width: 65%;
 	border: thin solid #949393;
+	margin-top: 2.2em;
 }
